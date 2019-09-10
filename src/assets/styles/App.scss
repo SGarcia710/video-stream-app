@@ -1,0 +1,17 @@
+@import './Vars.scss';
+@import './Media.scss';
+
+body {
+  margin: 0;
+  background-color: $main-color;
+  font-family: $theme-font;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  height: auto;
+  min-height: 90vh;
+}

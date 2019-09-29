@@ -22,8 +22,6 @@ body {
   border-radius: 40px;
   color: white;
   padding: 60px 68px 40px;
-  min-height: 650px;
-  width: 300px;
   display: flex;
   justify-content: space-around;
   flex-direction: column;
@@ -60,19 +58,7 @@ body {
 ::placeholder {
   color: white;
 }
-.button {
-  background-color: rgba(255, 255, 255, 0.2);
-  border: none;
-  border-radius: 25px;
-  color: white;
-  cursor: pointer;
-  font-size: 16px;
-  font-family: 'Muli', sans-serif;
-  font-weight: bold;
-  height: 50px;
-  letter-spacing: 1px;
-  margin: 10px 0px;
-}
+
 .signup__container--signup {
   font-size: 14px;
 }

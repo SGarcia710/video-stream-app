@@ -87,19 +87,7 @@ body {
 ::placeholder {
   color: white;
 }
-.button {
-  background-color: rgba(255, 255, 255, 0.2);
-  border: none;
-  border-radius: 25px;
-  color: white;
-  cursor: pointer;
-  font-size: 16px;
-  font-family: $font;
-  font-weight: bold;
-  height: 50px;
-  letter-spacing: 1px;
-  margin: 10px 0px;
-}
+
 @media only screen and (max-width: 600px) {
   .login__container {
     background-color: transparent;
